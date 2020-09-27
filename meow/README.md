@@ -18,7 +18,9 @@ In command line do:
 A python interperator should open up. Input the following command.
 
 *>>>import secrets*
+
 *>>>secret = secrets.token_hex(16)*
+
 *>>>secret* or *>>>print(secret)*
 
 The secret will be printed.
